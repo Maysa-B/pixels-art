@@ -131,9 +131,6 @@ function createBoard() {
         number = input;
     }
 
-    console.log(pixelscriados);
-    console.log(number);
-
     if (input == '') {
         alert('Board Inválido!');
     } else {
@@ -170,6 +167,8 @@ function createBoard() {
 
         }
     }
+
+    addListener();
 }
 
 function deleteBoard() {

@@ -15,12 +15,5 @@ Beyond that, by choosing a number from the `input` area and pressing the `VQV` b
 
 > However, if we add a value _lower_ than 5, a frame with 25 pixels will be created. And if we add a value _higher_ than 50, the _board_ will have only 2500 pixels.
 
-
----------------
-> It's important to highlight that only the documents produced by me are
-> in the repository. For some of the projects, Trybe, which is the
-> course that I'm following, gives us some functions/objects/styling
-> that helps us to conclude the project, so the repository may seem
-> incomplete.
 ---------------
 If you see something that can be improved, please contact me! All feedback is very welcome.:sparkles:
