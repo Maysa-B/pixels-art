@@ -15,5 +15,9 @@ Beyond that, by choosing a number from the `input` area and pressing the `VQV` b
 
 > However, if we add a value _lower_ than 5, a frame with 25 pixels will be created. And if we add a value _higher_ than 50, the _board_ will have only 2500 pixels.
 
+### Deploy 
+
+If you are interested in seeing the final result you can access by this [link](https://pixels-art-maysa-b.vercel.app/) the final result.
+
 ---------------
 If you see something that can be improved, please contact me! All feedback is very welcome.:sparkles:
